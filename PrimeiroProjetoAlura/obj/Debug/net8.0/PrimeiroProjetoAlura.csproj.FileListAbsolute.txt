@@ -1,0 +1,14 @@
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net8.0\PrimeiroProjetoAlura.exe
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net8.0\PrimeiroProjetoAlura.deps.json
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net8.0\PrimeiroProjetoAlura.runtimeconfig.json
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net8.0\PrimeiroProjetoAlura.dll
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\bin\Debug\net8.0\PrimeiroProjetoAlura.pdb
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net8.0\PrimeiroProjetoAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net8.0\PrimeiroProjetoAlura.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net8.0\PrimeiroProjetoAlura.AssemblyInfo.cs
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net8.0\PrimeiroProjetoAlura.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net8.0\PrimeiroProjetoAlura.dll
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net8.0\refint\PrimeiroProjetoAlura.dll
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net8.0\PrimeiroProjetoAlura.pdb
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net8.0\PrimeiroProjetoAlura.genruntimeconfig.cache
+C:\Users\samue\source\repos\PrimeiroProjetoAlura\PrimeiroProjetoAlura\obj\Debug\net8.0\ref\PrimeiroProjetoAlura.dll
